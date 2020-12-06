@@ -38,7 +38,7 @@ const BookCard = ({books}) => {
 
     return (
         <div className="row no-gutters">
-            {(eachCard.length >= 1 && books.formSubmited) ? eachCard : <div className={"col-12 d-flex justify-content-center my-3"}>No results found, but You can add a new book</div>}
+            {(eachCard.length >= 1 && books.formSubmited) ? eachCard : <div className={"col-12 d-flex justify-content-center my-3"}>Just try to search some books</div>}
         </div>
     );
 }
