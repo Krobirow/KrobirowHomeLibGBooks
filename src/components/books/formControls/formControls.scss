@@ -1,0 +1,11 @@
+.formControl {
+    width: 100%;
+
+    .error-message {
+        top: -25px;
+        left: 10px;
+    }
+}
+.formControl.error input {
+    border: 2px solid #b58900;
+}
