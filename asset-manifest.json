@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KrobirowHomeLibGBooks/static/css/main.780da6b6.chunk.css",
+    "main.js": "/KrobirowHomeLibGBooks/static/js/main.b73e0deb.chunk.js",
+    "main.js.map": "/KrobirowHomeLibGBooks/static/js/main.b73e0deb.chunk.js.map",
+    "runtime-main.js": "/KrobirowHomeLibGBooks/static/js/runtime-main.3968c2d4.js",
+    "runtime-main.js.map": "/KrobirowHomeLibGBooks/static/js/runtime-main.3968c2d4.js.map",
+    "static/js/2.b88708ec.chunk.js": "/KrobirowHomeLibGBooks/static/js/2.b88708ec.chunk.js",
+    "static/js/2.b88708ec.chunk.js.map": "/KrobirowHomeLibGBooks/static/js/2.b88708ec.chunk.js.map",
+    "index.html": "/KrobirowHomeLibGBooks/index.html",
+    "static/css/main.780da6b6.chunk.css.map": "/KrobirowHomeLibGBooks/static/css/main.780da6b6.chunk.css.map",
+    "static/js/2.b88708ec.chunk.js.LICENSE.txt": "/KrobirowHomeLibGBooks/static/js/2.b88708ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3968c2d4.js",
+    "static/js/2.b88708ec.chunk.js",
+    "static/css/main.780da6b6.chunk.css",
+    "static/js/main.b73e0deb.chunk.js"
+  ]
+}
