@@ -16,7 +16,7 @@ const bookHandlerReducer = (state = initialState, action) => {
             return {
                 ...state,
                 books: action.books.filter( (eachBook) => {
-                    return eachBook.volumeInfo.title.toLowerCase().substring(0, state.inputValue.length) === state.inputValue;
+                    return eachBook.volumeInfo.title.toLowerCase().substring(0, state.inputValue.length) === state.inputValue.toLowerCase();
                 })
             }
         case FORM_SUBMITED:
